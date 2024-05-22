@@ -37,7 +37,7 @@ class CustomRecyclerAdapter(private val names: MutableList<String>,  private val
 
     private fun showConfirmBar(path: String) {
         val builder = MaterialAlertDialogBuilder(contextMain)
-        builder.setMessage("Are you sure you want to Delete?")
+        builder.setMessage(R.string.delete_confirm)
             .setCancelable(false)
             .setPositiveButton(R.string.yes) { _, _ ->
                 deleteItemByTag(path)

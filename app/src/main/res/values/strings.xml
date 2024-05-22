@@ -10,4 +10,5 @@
     <string name="copy">Path</string>
     <string name="copy_success">Text copied to clipboard</string>
     <string name="gh">GH</string>
+    <string name="delete_confirm">Are you sure you want to Delete?</string>
 </resources>
