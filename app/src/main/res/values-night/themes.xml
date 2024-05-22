@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WallpaperChanger" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+
+    </style>
+
+    <style name="ShapeAppearanceOverlay.MyApp.FloatingActionButton" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">80%</item> <!-- Измените этот размер по вашему усмотрению -->
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WallpaperChanger</string>
+    <string name="open_folder">Open folder</string>
+    <string name="ready_start">Created a source, transferred files</string>
+    <string name="error">Something went wrong</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    <string name="about">Folder: \n/storage/emulated/0/Documents/Wallpapers</string>
+    <string name="copy">Path</string>
+    <string name="copy_success">Text copied to clipboard</string>
+    <string name="gh">GH</string>
+</resources>

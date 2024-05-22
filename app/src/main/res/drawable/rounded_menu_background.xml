@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/white"/> <!-- Замените на нужный вам цвет -->
+    <corners android:radius="16dp"/> <!-- Замените 16dp на нужное вам значение радиуса -->
+    <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp"/> <!-- Добавьте отступы при необходимости -->
+</shape>
