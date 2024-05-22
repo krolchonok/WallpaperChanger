@@ -14,6 +14,8 @@ Or get the app from the [Releases Section](https://github.com/krolchonok/Wallpap
 ## ScreenShots
 <img src="https://github.com/krolchonok/imaginashen/blob/main/photo_2024-05-22_23-52-24.jpg" width="200"><img src="https://github.com/krolchonok/imaginashen/blob/main/photo_2024-05-22_23-52-29.jpg" width="200"><img src="https://github.com/krolchonok/imaginashen/blob/main/photo_2024-05-22_23-52-21.jpg" width="200">
 ## ToDo
+- lockscreen or wallpapaper
 - widget for fast swap wallpaper
 - password (fingerprint)
 - choice recycler view: carousel, list, ~~grid~~
+- share menu add
