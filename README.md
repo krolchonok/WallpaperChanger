@@ -4,7 +4,7 @@ Mobile app to change wallpaper from folder (png, jpg).
 
 ## Download
 
-RuStore (soon)
+[RuStore ](https://www.rustore.ru/catalog/app/com.ushastoe.wallpaperchanger)
 
 Or get the app from the [Releases Section](https://github.com/krolchonok/WallpaperChanger/releases/latest).
 ## Functions
