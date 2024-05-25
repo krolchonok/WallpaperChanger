@@ -135,6 +135,8 @@ class MainActivity : AppCompatActivity() {
             inputStream?.let {
                 copyStream(it, outputStream)
             }
+            Toast.makeText(this, getString(R.string.saved) + "\u00A0" + fileName + ".jpg", Toast.LENGTH_LONG).show()
+
         } finally {
             inputStream?.close()
             outputStream.close()

@@ -11,4 +11,13 @@
     <string name="copy_success">Text copied to clipboard</string>
     <string name="gh">GH</string>
     <string name="delete_confirm">Are you sure you want to Delete?</string>
+    <string name="share_label">Save as Wallpaper</string>
+    <string name="saved">Select </string>
+    <string name="select_screen">Select screen to set wallpaper</string>
+    <string name="lockscreen">Lockscreen</string>
+    <string name="desktop">Desktop</string>
+    <string name="both">Both</string>
+    <string name="cancel">Cancel</string>
+    <string name="wallpaper_set">Wallpaper set</string>
+    <string name="wallpaper_set_failed">Failed to install wallpaper</string>
 </resources>
