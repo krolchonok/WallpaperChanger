@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обои</string>
+    <string name="open_folder">Открыть папку</string>
+    <string name="ready_start">Создал папку, переносите файлы</string>
+    <string name="error">Что-то пошло не так</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="close">Закрыть</string>
+    <string name="about">Папка: /storage/emulated/0/Documents/Wallpapers</string>
+    <string name="copy">Путь</string>
+    <string name="copy_success">Текст скопирован в буфер обмена</string>
+    <string name="delete_confirm">Вы точно хотите удалить?</string>
+    <string name="share_label">Сохранить как обои</string>
+    <string name="saved">Выбрать</string>
+    <string name="select_screen">Выбрать куда установить обои</string>
+    <string name="lockscreen">Экран блокировки</string>
+    <string name="desktop">Рабочий стол</string>
+    <string name="both">Оба</string>
+    <string name="cancel">Отмена</string>
+    <string name="wallpaper_set">Установить обои</string>
+    <string name="wallpaper_set_failed">Ошибка при установки обоев</string>
+</resources>
